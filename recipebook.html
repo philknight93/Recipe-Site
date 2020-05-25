@@ -1,0 +1,32 @@
+---
+title: Knight Family Cook Book
+layout: default
+---
+<h1>{{page.title}}</h1>
+
+{%assign famrecs = site.recipes | where_exp:"recipe","recipe.tags contains 'family'"%}
+
+<!-- listing the recipes by tag -->
+
+<!--{% assign tags =  famrecs | map: 'tags' | join: ','  | split: ',' | uniq %}-->
+<ul>
+  {% assign arry = "entree, side, dessert, sugarfree, snack, drink" | split: ", " %}
+
+{% for tag in arry %}
+  {%if tag == 'sugarfree' %}
+  <h3> Sugar Free</h3>
+  {%else%}
+  <h3>{{ tag | capitalize}}</h3>
+  {%endif%}
+  <ul>
+  {% for recipe in famrecs %}
+    {% if recipe.tags contains tag %}
+    {%unless recipe.tags contains 'draft'%}
+    <li><a href="{{ recipe.url | relative_url}}">{{ recipe.title }}</a></li>
+    {%endunless%}
+    {% endif %}
+  {% endfor %}
+  </ul>
+{% endfor %}
+</ul>
+ <!--end of recipe listing-->

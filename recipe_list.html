@@ -1,0 +1,37 @@
+---
+title: Recipes
+---
+<!-- full listing that I am removing-->
+<!--
+<h2>Recipes</h2>
+
+<ul>
+  {% for recipe in site.recipes %}
+  {%unless recipe.tags contains 'draft'%}
+    <li>
+        <a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a>
+    </li>
+  {%endunless%}
+  {% endfor %}
+</ul>
+-->
+<!-- listing the recipes by tag-->
+
+<h2>All Recipes by Category</h2>
+{% assign tags =  site.recipes | map: 'tags' | join: ','  | split: ',' | uniq %}
+<ul>
+{% for tag in tags %}
+  {%unless tag == 'draft' or tag == 'dinner' or tag == 'family' or tag == 'sugarfree'%}
+    <h3>{{ tag | capitalize }}</h3>
+  <ul>
+    {% for recipe in site.recipes %}
+      {% if recipe.tags contains tag %}
+        {%unless recipe.tags contains 'draft'%}
+        <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
+        {%endunless%}
+      {% endif %}
+    {% endfor %}
+  </ul>
+  {% endunless %}
+{% endfor %}
+</ul>

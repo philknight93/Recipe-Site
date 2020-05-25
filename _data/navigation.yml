@@ -1,8 +1,12 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
-- name: Blog
-  link: /blog.html
-- name: Staff
-  link: /staff.html
+# - name: About
+#   link: /about.html
+# - name: Blog
+#   link: /blog.html
+# - name: Staff
+#   link: /staff.html
+- name: Knight Family Cookbook
+  link: /recipebook.html
+- name: All Recipes
+  link: /recipe_list.html

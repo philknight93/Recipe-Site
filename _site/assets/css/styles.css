@@ -782,3 +782,12 @@ section {
     display: none; } }
 .current {
   color: green; }
+
+ul {
+  list-style-image: none; }
+
+navigation span {
+  padding-right: 5vw; }
+
+body {
+  margin: 10px 10px 10px 10px; }

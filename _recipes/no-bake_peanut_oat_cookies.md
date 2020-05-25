@@ -1,0 +1,20 @@
+---
+title: No-Bake Peanut Oat Cookies
+description:
+tags: family dessert
+source:
+yield: 
+ingredients: 
+- 1 cup sugar
+- 1/4 cup unsweetened cocoa
+- 1/4 cup milk
+- 1/4 cup butter
+- 1/4 cup peanut butter
+- 1 3/4 cup quick cooking rolled oats
+instructions: 
+- In medium saucepan mix sugar and cocoa
+- Add milk and butter and heat over medium heat
+- Bring to a boil and boil EXACTLY 1 min
+- Remove from heat and stir in peanut butter and oats
+- Drop by teaspoon fulls onto wax paper to let set up
+---

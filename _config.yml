@@ -1,6 +1,8 @@
 collections:
   authors:
     output: true
+  recipes:
+    output: true
 
 defaults:
   - scope:
@@ -8,6 +10,11 @@ defaults:
       type: "authors"
     values:
       layout: "author"
+  - scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "recipe"
   - scope:
       path: ""
       type: "posts"
