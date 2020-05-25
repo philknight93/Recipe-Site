@@ -1,8 +1,8 @@
 ---
 title: Peach Cobbler
 description:
-tags: family dessert draft
-source: Mamaw Probus (??? Name right?)
+tags: family dessert
+source: Marie Probus
 yield: 
 ingredients: 
 - 1 large can of peaches

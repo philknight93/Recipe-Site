@@ -1,5 +1,5 @@
 ---
-title: Peanut Butter Pie
+title: Peanut Butter Pie (Kenny King)
 description:
 tags: family dessert
 source: Kenny King

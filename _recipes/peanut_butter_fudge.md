@@ -1,8 +1,8 @@
 ---
-title: Peanut Butter Fudge
+title: Peanut Butter Fudge (Bertha)
 description:
 tags: family dessert
-source: Barbara Rearden
+source: Bertha Probus
 yield: 
 ingredients: 
 - 2 cups sugar

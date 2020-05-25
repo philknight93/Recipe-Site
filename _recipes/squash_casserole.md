@@ -2,7 +2,7 @@
 title: Squash Casserole
 description:
 tags: family side
-source:
+source: Donna Butler
 yield: 
 ingredients: 
 - 1 small onion

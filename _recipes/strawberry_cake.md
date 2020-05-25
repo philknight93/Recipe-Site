@@ -2,7 +2,7 @@
 title: Strawberry Cake
 description: 
 tags: family dessert
-source: Sue White
+source: Lenora Knight
 yield: 
 ingredients: 
 - 1 package strawberry gelatin

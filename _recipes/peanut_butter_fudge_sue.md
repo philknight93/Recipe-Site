@@ -1,5 +1,5 @@
 ---
-title: Peanut Butter Fudge
+title: Peanut Butter Fudge (Sue)
 description:
 tags: family dessert
 source: Sue White

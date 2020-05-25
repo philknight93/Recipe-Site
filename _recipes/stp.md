@@ -1,13 +1,13 @@
 ---
 title: STP
 description: Sausage Tomatoes & Potatoes
-tags: family dinner draft
+tags: family dinner
 source: Lenora Knight
 yield: 
 ingredients: 
 - 1 lb sausage
 - 5-7 med. potatoes
-- tomato juice
+- 1 can (46oz) tomato juice
 - salt
 - pepper
 instructions: 

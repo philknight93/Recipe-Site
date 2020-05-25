@@ -2,7 +2,7 @@
 title: Old Fashioned Corn Bread
 description: yum
 tags: family side
-source:
+source: Marie Probus
 yield: 9x9 pan
 ingredients:
 - 1 cup yellow corn meal (Martha White S.R. Buttermilk corn meal)

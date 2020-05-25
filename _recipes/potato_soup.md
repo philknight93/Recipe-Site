@@ -1,8 +1,8 @@
 ---
 title: Potato Soup
 description:
-tags: family dinner draft
-source: Leslie (??)
+tags: family dinner
+source: Leslie Sargeant
 yield: 
 ingredients: 
 - 6 to 7 potatoes, diced

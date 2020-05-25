@@ -1,8 +1,8 @@
 ---
 title: Peanut Butter Fudge (Microwave Method)
 description:
-tags: family dessert draft
-source:
+tags: family dessert
+source: Barnara Rearden
 yield: 
 ingredients: 
 - 3/4 cup Parkay margarine
