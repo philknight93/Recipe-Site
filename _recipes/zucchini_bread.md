@@ -18,6 +18,6 @@ instructions:
 - Mix grated zucchini, eggs, sugar, butter, and vanilla together
 - Mix flour and cinnamon in a separate bowl
 - Add the wet mixture to the flour and cinnamon mixture. Mix well
-- Optional: Fold in chopped nuts
+- (optional) Fold in chopped nuts
 - Bake at 350F for 45 mins
 ---
