@@ -1,7 +1,7 @@
 ---
 title: STP
 description: Sausage Tomatoes & Potatoes
-tags: family dinner
+tags: family entree
 source: Lenora Knight
 yield: 
 ingredients: 
