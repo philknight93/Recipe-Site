@@ -1,7 +1,7 @@
 ---
 title: Italian Beef Stir Fry
 description:
-tags: family dinner draft
+tags: family entree draft
 source: Barbara Rearden
 yield: 
 ingredients: 

@@ -1,7 +1,7 @@
 ---
 title: Stuffed Peppers
 description:
-tags: family dinner draft
+tags: family entree draft
 source: Barbara Rearden
 yield: 
 ingredients: 

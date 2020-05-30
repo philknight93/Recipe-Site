@@ -3,16 +3,18 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 
+{% if page.description != nil  %}
+<h4><!--<span style="font-weight:bold">Description:</span>--> {{ page.description }}</h4>
+{% endif %}
+
 {% if page.yield != nil  %}
 <h4><span style="font-weight:bold">Yield:</span> {{ page.yield }}</h4>
 {% endif %}
 
-{% if page.source != nil  %}
+{% if page.source contains 'http'%}
+<h4><span style="font-weight:bold">Source:</span> <a href="{{ page.source }}">Link</a></h4>
+{% elsif page.source != nil  %}
 <h4><span style="font-weight:bold">Source:</span> {{ page.source }}</h4>
-{% endif %}
-
-{% if page.description != nil  %}
-<h4><span style="font-weight:bold">Description:</span> {{ page.description }}</h4>
 {% endif %}
 
 <div class="ingredients">
@@ -37,5 +39,8 @@ layout: default
 </div>
 {%if page.tags contains 'family'%}
 <h5>Back to <a href="{{ '/recipebook.html' | relative_url}}"> Knight Family Cook Book </a></h5>
+{%endif%}
+{%if page.tags contains 'tp'%}
+<h5>Back to <a href="{{ '/tp.html' | relative_url}}"> Travis & Phil's Favorites </a></h5>
 {%endif%}
 <h6>Tags: {{ page.tags | array_to_sentence_string }} </h6>

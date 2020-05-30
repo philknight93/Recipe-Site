@@ -18,10 +18,11 @@ title: Recipes
 <!-- listing the recipes by tag-->
 
 <h2>All Recipes by Category</h2>
-{% assign tags =  site.recipes | map: 'tags' | join: ','  | split: ',' | uniq %}
+<!--{% assign tags =  site.recipes | map: 'tags' | join: ','  | split: ',' | uniq %}-->
 <ul>
-{% for tag in tags %}
-  {%unless tag == 'draft' or tag == 'dinner' or tag == 'family' or tag == 'sugarfree'%}
+{% assign arry = "entree, side, dessert, sugarfree, snack, drink" | split: ", " %}
+{% for tag in arry %}
+  {%unless tag == 'draft' or tag == 'family' or tag == 'sugarfree' or tag == 'tp'%}
     <h3>{{ tag | capitalize }}</h3>
   <ul>
     {% for recipe in site.recipes %}
