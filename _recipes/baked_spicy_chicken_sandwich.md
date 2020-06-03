@@ -5,13 +5,13 @@ tags: entree tp
 source: https://www.budgetbytes.com/baked-spicy-chicken-sandwiches/
 yield: 4 to 5 servings
 ingredients: 
-- 1.5 lb chicken thighs, preferably boneless
+- 1 lb chicken thighs, preferably boneless
 - 1 (5.3oz) container of plain greek yogurt
 - 1 tsp garlic salt
 - 2 tsp paprika
-- 1 tsp cayenne pepper
+- 1/2 tsp cayenne pepper
 - Freshly cracked pepper
-- 3 tsp hot sauce
+- 1 1/2 - 2 tsp hot sauce
 - 2 cups breadcrumbs
 - 4 Tbs cooking oil
 - Buns, greens, sauce to your liking for serving
