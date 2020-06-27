@@ -9,7 +9,7 @@ ingredients:
 - 1 Tbs dried parsley (or dried cilantro)
 - 1/2 large red onion, cubed
 - 2-3 cloves of garlic, minced
-- 1 (16 oz) cans of reduced-sodium great northern beans, drained
+- 1 (16 oz) can of reduced-sodium great northern beans, drained
 - 1 (10 oz) can of rotel tomatoes, preferably mild (do NOT drain)
 - 1 Tsp chopped green chilis (from 4.5 oz can)
 - 8 oz whole kernel corn (canned or frozen)

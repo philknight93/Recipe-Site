@@ -1,0 +1,16 @@
+---
+layout: other
+---
+[
+  {% for recipe in site.recipes %}
+  {%unless recipe.tags contains 'draft'%}
+    {
+
+      "title"    : "{{ recipe.title | escape }}",
+      "url"      : "{{ recipe.url | relative_url }}",
+      "tags"     : "{{ recipe.tags | join: ', ' }}"
+
+    } {% unless forloop.last %},{% endunless %}
+  {% endunless %}
+  {% endfor %}
+]

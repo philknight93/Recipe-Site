@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About</title>
+    <title>Search</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
     <link type="application/atom+xml" rel="alternate" href="/feed.xml" />
     <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>About</title>
+<title>Search</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="About" />
+<meta property="og:title" content="Search" />
 <meta property="og:locale" content="en_US" />
 <script type="application/ld+json">
-{"headline":"About","@type":"WebPage","url":"/about.html","@context":"https://schema.org"}</script>
+{"headline":"Search","@type":"WebPage","url":"/search.html","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -44,7 +44,7 @@
     </span>
     
     <span>
-    <a href="/search.html " >
+    <a href="/search.html " class="current">
       Search
     </a>
     </span>
@@ -52,8 +52,23 @@
 </navigation>
     <br>
     <br>
-    <h1 id="about-page">About Page</h1>
-<p>This page tells you a bit about me, yo</p>
-
+    <h1> Search </h1>
+<!-- Html Elements for Search -->
+<div id="search-container">
+    <input type="text" id="search-input" placeholder="Search for recipes...">
+    <ul id="results-container"></ul>
+    </div>
+    
+    <!-- Script pointing to search-script.js -->
+    <script src="/assets/js/search-script.js" type="text/javascript"></script>
+    
+    <!-- Configuration -->
+    <script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json'
+    })
+    </script>
   </body>
 </html>
