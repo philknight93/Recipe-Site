@@ -103,6 +103,16 @@
   
     {
 
+      "title"    : "Chicken and Broccoli",
+      "url"      : "/recipes/chicken_and_broccoli.html",
+      "tags"     : "entree, tp"
+
+    } ,
+  
+  
+  
+    {
+
       "title"    : "Chicken and Dressing Casserole",
       "url"      : "/recipes/chicken_and_dressing_casserole.html",
       "tags"     : "family, entree"
@@ -527,6 +537,16 @@
   
     {
 
+      "title"    : "Shepherd&#39;s Pie",
+      "url"      : "/recipes/shepherds_pie.html",
+      "tags"     : "entree, tp"
+
+    } ,
+  
+  
+  
+    {
+
       "title"    : "Slow Cooker Chicken and Dumplings",
       "url"      : "/recipes/slow_cooker_chicken_and_dumplings.html",
       "tags"     : "family, entree"
@@ -600,6 +620,16 @@
     } ,
   
   
+  
+  
+  
+    {
+
+      "title"    : "Tomato Egg Drop Soup with Dumplings",
+      "url"      : "/recipes/tomato_egg_drop_soup_with_dumplings.html",
+      "tags"     : "tp, entree"
+
+    } ,
   
   
   
