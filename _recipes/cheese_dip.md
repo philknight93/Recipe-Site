@@ -4,7 +4,8 @@ description: velveeta...yum
 tags: family snack
 source: Alice Belew
 yield: 
-ingredients:
+---
+## Ingredients
 - 1 lb Velveeta cheese
 - 1/2 lb sausage
 - 1/2 lb ground beef
@@ -12,9 +13,9 @@ ingredients:
 - 1 sm. bell pepper, chopped
 - 1 tomato, diced
 - 6 Tbs jalapeno relish
-instructions: 
-- Brown sausage, hamburger and onions.
-- Melt cheese in crock pot
-- Mix in meat and all otehr ingredients
-- Let warm
----
+
+## Instructions
+1. Brown sausage, hamburger and onions.
+2. Melt cheese in crock pot
+3. Mix in meat and all otehr ingredients
+4. Let warm

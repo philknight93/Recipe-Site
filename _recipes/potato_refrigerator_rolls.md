@@ -1,10 +1,11 @@
 ---
 title: Potato Refrigerator Rolls
-description: ''
+description: 
 tags: family dessert draft
 source: Barbara Rearden
-yield: ''
-ingredients: 
+yield: 
+---
+## Ingredients
 - 1 cup mashed potato
 - 2/3 cup butter
 - 1/2 cup sugar
@@ -14,7 +15,7 @@ ingredients:
 - 1 yeast cake
 - 1/2 cup warm potato water
 - 1 cup warm milk
-instructions: 
-- mix
-- confusing --- need to parse through it ????
----
+
+## Instructions
+1. mix
+2. confusing --- need to parse through it ????

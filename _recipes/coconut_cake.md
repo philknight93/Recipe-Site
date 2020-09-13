@@ -1,12 +1,13 @@
 ---
 title: Coconut Cake
-description:
+description: 
 tags: family dessert draft
 source: Mrs. Banks
 yield: 
-ingredients: 
+---
+## Ingredients
 - 1 pkg butter cake mix
 - lots of questsion
-instructions: 
-- woof, I need help
----
+
+## Instructions
+1. woof, I need help

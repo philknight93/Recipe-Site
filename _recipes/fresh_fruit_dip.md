@@ -1,14 +1,15 @@
 ---
 title: Fresh Fruit Dip
-description:
+description: 
 tags: family snack
-source:
+source: 
 yield: 
-ingredients: 
+---
+## Ingredients
 - 18 oz cream cheese (softened)
 - 1 medium jar marshmallow cream
 - 2 Tbs orange juice
 - Optional - 8oz Cool Whip
-instructions: 
-- Combine and chill for 1 hour
----
+
+## Instructions
+1. Combine and chill for 1 hour

@@ -1,16 +1,17 @@
 ---
 title: Vanilla Milkshake
-description:
+description: 
 tags: family dessert drink sugarfree
-source:
+source: 
 yield: 
-ingredients: 
+---
+## Ingredients
 - 1/3 cup water
 - 1/2 cup milk
 - 4 pks Equal
 - 1/2 tsp vanilla
 - 3 ice cubes
-instructions: 
-- Put all ingredients in blender
-- Blend on high until ice is completely blended (~3 mins)
----
+
+## Instructions
+1. Put all ingredients in blender
+2. Blend on high until ice is completely blended (~3 mins)

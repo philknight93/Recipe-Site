@@ -1,11 +1,12 @@
 ---
-title:
-description:
-tags:
-source:
+title: 
+description: 
+tags: 
+source: 
 yield: 
-ingredients: 
-- 
-instructions: 
-- 
 ---
+## Ingredients
+- 
+
+## Instructions
+1. 

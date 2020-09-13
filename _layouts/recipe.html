@@ -11,13 +11,16 @@ layout: default
 <h4><span style="font-weight:bold">Yield:</span> {{ page.yield }}</h4>
 {% endif %}
 
-{% if page.source contains 'http'%}
+{% if page.source contains 'http' and page.source contains 'maangchi'%}
+<h4><span style="font-weight:bold">Source:</span> <a href="{{ page.source }}">Maangchi!</a></h4>
+{% elsif page.source contains 'http'%}
 <h4><span style="font-weight:bold">Source:</span> <a href="{{ page.source }}">Link</a></h4>
 {% elsif page.source != nil  %}
 <h4><span style="font-weight:bold">Source:</span> {{ page.source }}</h4>
 {% endif %}
 
-<div class="ingredients">
+{{content}}
+<!--<div class="ingredients">
     <h2>Ingredients</h2>
     <ul>
             {% for ingredient in page.ingredients %}
@@ -36,7 +39,7 @@ layout: default
             </li>
             {% endfor %}
     </ol>
-</div>
+</div>-->
 {%if page.tags contains 'family'%}
 <h5>Back to <a href="{{ '/recipebook.html' | relative_url}}"> Knight Family Cook Book </a></h5>
 {%endif%}

@@ -1,10 +1,11 @@
 ---
 title: Taco Casserole ( Conventional Method )
-description:
+description: 
 tags: family entree
-source:
+source: 
 yield: 
-ingredients: 
+---
+## Ingredients
 - 2 lbs ground beef
 - 1 pks taco seasoning
 - 2 cans refried beans
@@ -16,11 +17,11 @@ ingredients:
 - onions
 - mushrooms
 - olives
-instructions: 
-- Preheat oven 350F
-- Brown ground beef and drain
-- Add taco seasoning, refried beans, and some water
-- Pour chips in bottom 13x9 pan
-- Pour mixture on top and bake for ~20 mins at 350F
-- Sprinkle cheese on top and bake until cheese is melted
----
+
+## Instructions
+1. Preheat oven 350F
+2. Brown ground beef and drain
+3. Add taco seasoning, refried beans, and some water
+4. Pour chips in bottom 13x9 pan
+5. Pour mixture on top and bake for ~20 mins at 350F
+6. Sprinkle cheese on top and bake until cheese is melted

@@ -1,10 +1,11 @@
 ---
 title: Sweet Relish
-description:
+description: 
 tags: family snack draft
-source:
+source: 
 yield: 
-ingredients: 
+---
+## Ingredients
 - 1/2 peck green tomatoes
 - 1/2 peck ripe tomatoes
 - 4 cup onions
@@ -14,11 +15,11 @@ ingredients:
 - 1 tsp mustard seed
 - 2 tsp cloves
 - 2 tsp ???
-instructions: 
-- Grind together tomatoes, onions, and peppers
-- Sprinkle in salt
-- Mix and drain using cheescloth and strainer
-- Add rest of ingredients to a sauce pan
-- Add tomato mixture and cook for 40 mins
-- Pour into jars and seal
----
+
+## Instructions
+1. Grind together tomatoes, onions, and peppers
+2. Sprinkle in salt
+3. Mix and drain using cheescloth and strainer
+4. Add rest of ingredients to a sauce pan
+5. Add tomato mixture and cook for 40 mins
+6. Pour into jars and seal

@@ -4,17 +4,18 @@ description:
 tags: family dessert
 source: Donna Popham
 yield: 
-ingredients: 
+---
+## Ingredients
 - 1/2 lb butter
 - 1 lb powdered sugar
 - 12 oz peanut butter
 - 1 package chocolate chips
 - 1/3 bar of wax
-instructions: 
-- Cream butter & peanut butter together
-- Add in powdered sugar
-- Roll mixture into balls
-- Refrigerate for 2 hours
-- Melt wax, add choc chips
-- Roll balls in chocolate & let set
----
+
+## Instructions
+1. Cream butter & peanut butter together
+2. Add in powdered sugar
+3. Roll mixture into balls
+4. Refrigerate for 2 hours
+5. Melt wax, add choc chips
+6. Roll balls in chocolate & let set
