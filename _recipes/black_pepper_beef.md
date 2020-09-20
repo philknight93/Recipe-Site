@@ -3,20 +3,20 @@ title: Black Pepper Beef
 description: 
 tags: tp entree
 source: https://norecipes.com/black-pepper-beef/
-yield: 2 servings
+yield: 4 servings
 ---
 ## Ingredients
-- 6 grams whole black peppercorns (~2 tsps)
-- 300 grams filet mignon (or other steak cut, cut into 1/2-inch cubes)
-- 2 Tbs oyster sauce
-- 1 Tbs Shaoxing wine (can substitute mirin)
-- 1 tsp soy sauce
-- 1 tsp potato starch
-- 1 tsp sesame oil
-- 1 Tbs vegetable oil
-- 140 grams onion (~1 small onion, cut into 1/2-inch squares)
-- 85 grams bell pepper (~1 small pepper, cut into 1/2-inch squares)
-- 12 grams garlic (~2 large cloves, chopped)
+- 1 Tbs black pepper
+- 1 lb filet mignon (or other steak cut, cut into 1/2-inch cubes)
+- 4 Tbs oyster sauce
+- 2 Tbs Shaoxing wine (can substitute mirin)
+- 2 tsp soy sauce
+- 2 tsp potato starch (can substitute corn starch)
+- 2 tsp sesame oil
+- 2 Tbs vegetable oil
+- 1 large onion
+- 2 bell peppers
+- 3 cloves of garlic
 
 ## Instructions
 1. Put the black peppercorns in a mortar and use a pestle to crack the peppercorns coarsely. If you don’t have a mortar and pestle, put the peppercorns in a freezer bag and use a rolling pin to crush them.
