@@ -143,6 +143,16 @@
   
     {
 
+      "title"    : "Chocolate Chip Cookie Bars",
+      "url"      : "/recipes/choc_chip_cookie_bars.html",
+      "tags"     : "tp, dessert"
+
+    } ,
+  
+  
+  
+    {
+
       "title"    : "Chocolate Icing (Microwave Only)",
       "url"      : "/recipes/chocolate_icing.html",
       "tags"     : "family, dessert"
@@ -254,6 +264,16 @@
       "title"    : "Goop",
       "url"      : "/recipes/goop.html",
       "tags"     : "family, dessert, tp"
+
+    } ,
+  
+  
+  
+    {
+
+      "title"    : "Green Bean Casserole",
+      "url"      : "/recipes/green_bean_casserole.html",
+      "tags"     : "family, side"
 
     } ,
   
@@ -498,6 +518,16 @@
     } ,
   
   
+  
+  
+  
+    {
+
+      "title"    : "Pumpkin Pie",
+      "url"      : "/recipes/pumpkin_pie.html",
+      "tags"     : "family, dessert"
+
+    } ,
   
   
   

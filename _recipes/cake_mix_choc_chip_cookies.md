@@ -17,7 +17,7 @@ yield: 6 dozen cookies
 2. Combine cake mix and coffee in large mixing bowl and stir
 3. Add melted butter and egg; beat with a hand mixer
 4. Stir in chips until mixed well, the dough will be stiff
-5. Spray baking sheets with non-stick cooking sprey
+5. Spray baking sheets with non-stick cooking spray
 6. Drop the dough by tablespoons onto baking sheets
 7. Bake for 12-14 mins @ 350F
 8. Let cool 2 mins, then transfer to cooling rack
