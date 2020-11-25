@@ -2,28 +2,42 @@
 title: Shepherd's Pie
 description: 
 tags: entree tp
-source: https://www.simplyrecipes.com/recipes/easy_shepherds_pie/?utm_campaign=yummly&utm_medium=yummly&utm_source=yummly
+source: https://www.thecookingfoodie.com/recipe/Shepherds-Pie-Recipe
 yield: 4 servings
 ---
 ## Ingredients
-- 1 lb ground beef (for authentic Shepherd's pie, use ground lamb instead)
-- 3 large potatoes, peeled and quartered
-- 1 medium onion, chopped
-- 1/2 stick (4 Tbs) butter
-- 1-2 Tsp Worcestershire sauce
-- 1/2 cup beef broth
-- 1-2 cups vegetables (ex. diced carrots, diced green bell pepper, corn, peas)
-- Salt, pepper, other seasonings of choice
-- Some neutral cooking oil of choice
+### Meat Mixture
+- 2 pounds (1kg) ground lamb (can substitute ground beef)
+- 1 large onion, chopped
+- 3 garlic cloves, crushed
+- 3 Tbsp olive oil
+- 4 Tbsp flour
+- 1/2 tsp salt
+- 1/2 tsp black pepper
+- 1 tsp rosemary
+- 1 tsp thyme
+- 1 Tbsp tomato paste
+- 2 cups beef broth
+- 7oz (200g) carrots
+- 7oz (200g) peas (fresh or frozen)
+
+### Mashed Potatoes
+- 3.5 pounds (1.5kg) potatoes
+- 1 Tbsp butter
+- 1/2 cup (120ml) milk
+- 1/4 cup (25g) cheddar cheese
+- 1/2 tsp salt
+- 1/2 black pepper
+- egg yolk
+
 
 ## Instructions
-1. Preheat oven to 400F.
-2. Place the peeled and quartered potatoes in a medium sized pot. Cover with at least an inch of cold water. Add a teaspoon of salt. Bring to a boil, reduce to a simmer, and cook until tender (about 20 minutes).
-3. While the potatoes are cooking, add some cooking oil in a large sauté pan on medium heat. Add the chopped onions and cook until tender, about 6 to 10 minutes.
-4. Add vegetables to the sauté pan according to their cooking time (ex. peas or corn should be added at the end of the cooking of the onions).
-5. Add ground beef to the pan with the onions and vegetables. Cook until no longer pink. Season with salt, pepper, and other desired seasonings.
-6. Add the Worcestershire sauce and beef broth. Bring the broth to a simmer and reduce heat to low. Cook uncovered for 10 minutes, adding more beef broth if necessary to keep the meat from drying out.
-7. When the potatoes are done cooking (a fork can easily pierce), remove them from the pot and place them in a bowl with butter. Mash with a fork or potato masher, and season with salt and pepper to taste.
-8. Spread the beef, onions, and vegetables in an even layer in a large baking dish (9x13 casserole). Spread the mashed potatoes over the top of the ground beef.
-9. Rough up the surface of the mashed potatoes with a fork so there are peaks that will get well browned. You can even use a fork to make creative designs in the mashed potatoes.
-10. Place in a 400F oven and cook until browned and bubbling, about 30 minutes. If necessary, broil for the last few minutes to help the surface of the mashed potatoes brown. (Be careful when broiling using Pyrex or glass dishes, they have been known to shatter under the high heat of the broiler. It's not a worry if you are using a ceramic or metal casserole dish.)
+1. Peel the potatoes and cut into 4. Place in a medium pot and cover with cold water. Set over high heat, add a teaspoon of salt, cover and bring to a boil. cook until tender.
+2. While the potatoes are cooking, heat olive oil in a pan over medium heat. Add the onion and sauté 2-3 minutes, add crushed garlic and chopped carrots, sauté until the carrots are tender, about 5-7 minutes.
+3. Add the ground lamb, Cook until no longer pink, about 5 minutes. Season with salt, pepper, chopped rosemary and thyme. Add tomato paste, flour and stir.
+4. Add beef broth and frozen peas. Bring to a simmer, reduce heat to low and cook, stirring occasionally, until sauce thickens.
+5. When the potatoes are done cooking transfer them to a bowl. Add butter, milk, egg yolk, salt and pepper. mash the potatoes until smooth.
+6. Preheat oven to 400F (200C).
+7. Layer the meat mixture in a 13"X8.5" (33X22cm) ovenproof dish. Spread the puree over the meat mixture.
+8. Rough up the surface of the mashed potatoes with a fork so there are peaks that will get well browned. You can even use a fork to make creative designs in the mashed potatoes.
+9. Bake 20-25 minutes or until mashed potato is golden brown. 
