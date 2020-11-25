@@ -4,6 +4,7 @@ description:
 tags: tp dessert
 source: https://www.maangchi.com/recipe/gonggal-ppang
 yield: 4
+youtube: https://www.youtube.com/watch?v=mpzYc5fRAx0
 ---
 ## Ingredients
 ### Dough

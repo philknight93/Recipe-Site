@@ -4,6 +4,7 @@ description:
 tags: entree tp
 source: https://www.maangchi.com/recipe/jjapaguri
 yield: 
+youtube: https://www.youtube.com/watch?v=ZsTXzO-tk8M
 ---
 ## Ingredients
 - 1 package of Jjapagetti instant noodles (labelled “Chapagetti” on the package in English)
