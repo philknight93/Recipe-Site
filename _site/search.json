@@ -273,7 +273,7 @@
 
       "title"    : "Green Bean Casserole",
       "url"      : "/recipes/green_bean_casserole.html",
-      "tags"     : "family, side"
+      "tags"     : "family, side, tp"
 
     } ,
   
@@ -525,7 +525,7 @@
 
       "title"    : "Pumpkin Pie",
       "url"      : "/recipes/pumpkin_pie.html",
-      "tags"     : "family, dessert"
+      "tags"     : "family, dessert, tp"
 
     } ,
   

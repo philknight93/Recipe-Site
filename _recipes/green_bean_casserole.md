@@ -1,7 +1,7 @@
 ---
 title: Green Bean Casserole
 description: 
-tags: family side
+tags: family side tp
 source: https://www.mccormick.com/frenchs/recipes/salads-sides/frenchs-green-bean-casserole?amp=1
 yield: 
 ---

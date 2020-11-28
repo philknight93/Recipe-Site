@@ -1,7 +1,7 @@
 ---
 title: Pumpkin Pie
 description: 
-tags: family dessert
+tags: family dessert tp
 source: Libby's (canned pumpkin)
 yield: 1 pie
 ---
@@ -12,6 +12,7 @@ yield: 1 pie
 - 1/2 tsp salt
 - 1/2 tsp ground ginger
 - 1/4 tsp ground cloves
+- 2 eggs
 - 1 (15 oz) can pumpkin
 - 1 (12 fl oz) can evaporated milk
 
