@@ -9,6 +9,8 @@ youtube: https://www.youtube.com/watch?v=ZsTXzO-tk8M
 ## Ingredients
 - 1 package of Jjapagetti instant noodles (labelled “Chapagetti” on the package in English)
 - 1 package of Neoguri instant noodles
+- (Optional: 1 additional package of ramen noodles)
+- 3 cups water (Optional: + ~1.5 cups water if using additional noodles)
 - 8 oz rib eye steak or sirloin, cut into 1/2 inch cubes
 - pinch of kosher salt
 - pinch of ground black pepper

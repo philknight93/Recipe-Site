@@ -69,6 +69,16 @@
   
     {
 
+      "title"    : "Cajun Shrimp Linguine Alfredo",
+      "url"      : "/recipes/cajun_shrimp_linguine_alfredo.html",
+      "tags"     : "tp, entree"
+
+    } ,
+  
+  
+  
+    {
+
       "title"    : "Cake Mix Chocolate Chip Cookies",
       "url"      : "/recipes/cake_mix_choc_chip_cookies.html",
       "tags"     : "family, dessert"
