@@ -47,6 +47,16 @@
   
     {
 
+      "title"    : "Beef Stroganoff",
+      "url"      : "/recipes/beef_stroganoff.html",
+      "tags"     : "tp, entree"
+
+    } ,
+  
+  
+  
+    {
+
       "title"    : "Black Pepper Beef",
       "url"      : "/recipes/black_pepper_beef.html",
       "tags"     : "tp, entree"
