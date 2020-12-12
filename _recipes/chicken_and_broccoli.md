@@ -13,12 +13,12 @@ yield: 4 servings
 - 4 Tbs mirin
 - 1/3 cup low sodium soy sauce
 - 2/3 cup chicken broth
-- 4 Tsp sesame oil
-- 1/2 Tsp white pepper
+- 4 tsp sesame oil
+- 1/2 tsp white pepper
 - 1 1/2 Tbs minced garlic
 - 1 Tbs minced ginger
 - Cooking oil of choice
-- (optional) 1/2 Tsp red pepper flakes
+- (optional) 1/2 tsp red pepper flakes
 - (optional) sesame seeds as garnish
 
 ## Instructions
