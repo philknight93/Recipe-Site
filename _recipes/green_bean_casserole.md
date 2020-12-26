@@ -9,7 +9,7 @@ yield:
 - 1 (10 1/2 oz) can condensed cream of mushroom soup
 - 3/4 cup milk
 - 1/4 tsp ground black pepper
-- 2 (14 1/2 oz) cans green beans
+- 2 (14 1/2 oz) cans green beans, drained
 - 1 1/3 cups cripsy fried onions
 
 ## Instructions
