@@ -1,17 +1,18 @@
 ---
 title: Homemade onion rings
-description:
+description: 
 tags: family snack draft
-source:
+source: 
 yield: 
-ingredients: 
+---
+## Ingredients
 - Onions, sliced (??? no measurement for all ingredients)
 - Corn meal
 - Flour
 - Egg
 - Milk
-instructions: 
-- Separate onion slices into individual rings. 
-- Dredge into egg and milk batter, then into flour, then back into egg and milk batter, then into corn meal
-- Lay flat on cookie sheet and freeze. Can be deep fried or frozen
----
+
+## Instructions
+1. Separate onion slices into individual rings.
+2. Dredge into egg and milk batter, then into flour, then back into egg and milk batter, then into corn meal
+3. Lay flat on cookie sheet and freeze. Can be deep fried or frozen

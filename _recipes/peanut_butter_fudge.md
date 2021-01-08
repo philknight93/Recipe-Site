@@ -1,17 +1,18 @@
 ---
-title: Peanut Butter Fudge
-description:
+title: Peanut Butter Fudge (Bertha)
+description: 
 tags: family dessert
-source: Barbara Rearden
+source: Bertha Probus
 yield: 
-ingredients: 
+---
+## Ingredients
 - 2 cups sugar
 - 1 small can condensed milk
 - 1 cup peanut butter
-instructions: 
-- Bring sugar and milk to boil, stirring constantly
-- Cook to a soft boil and stir for 5 mins
-- Cool slightly
-- Add peanut butter and beat until creamy
-- Pour into buttered pan
----
+
+## Instructions
+1. Bring sugar and milk to boil, stirring constantly
+2. Cook to a soft boil and stir for 5 mins
+3. Cool slightly
+4. Add peanut butter and beat until creamy
+5. Pour into buttered pan

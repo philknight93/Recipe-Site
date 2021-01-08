@@ -1,10 +1,11 @@
 ---
 title: Salisbury Steak and Mushroom Gravy
-description:
+description: 
 tags: family entree
-source: Barabar Rearden
+source: Barbara Rearden
 yield: 
-ingredients: 
+---
+## Ingredients
 - 1 lb ground beef
 - 1 envelope onion soup mix
 - 1 egg, beaten
@@ -13,12 +14,12 @@ ingredients:
 - flour
 - 1 can cream of mushroom soup
 - 1 cup milk
-instructions: 
-- Mix together ground beef, onion soup mix, egg, worcestershire sauce, and bread crumbs
-- Form into patties and dredge lightly iin flour
-- Place on electric skillet set to 300-350F for 20 mins
-- Drain all fat from patties
-- Mix mushroom soup with milk
-- Pour over patties
-- Simmer 10 mins
----
+
+## Instructions
+1. Mix together ground beef, onion soup mix, egg, worcestershire sauce, and bread crumbs
+2. Form into patties and dredge lightly iin flour
+3. Place on electric skillet set to 300-350F for 20 mins
+4. Drain all fat from patties
+5. Mix mushroom soup with milk
+6. Pour over patties
+7. Simmer 10 mins

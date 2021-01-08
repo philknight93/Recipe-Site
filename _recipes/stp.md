@@ -1,22 +1,23 @@
 ---
 title: STP
 description: Sausage Tomatoes & Potatoes
-tags: family dinner draft
+tags: family entree tp
 source: Lenora Knight
 yield: 
-ingredients: 
+---
+## Ingredients
 - 1 lb sausage
 - 5-7 med. potatoes
-- tomato juice
+- 1 can (46oz) tomato juice
 - salt
 - pepper
-instructions: 
-- Peel and cut potatoes
-- Boil potatoes 10 min 
-- Turn off heat and let potatoes sit ~30 mins
-- Roll sausage into balls, cook, and drain.
-- Drain potatoes
-- Put sausage in pan with potatoes and cover with tomato juice.
-- Salt and pepper to taste
-- Simmer (covered) until potatoes are done (~ 30 mins)
----
+
+## Instructions
+1. Peel and cut potatoes
+2. Boil potatoes 10 min
+3. Turn off heat and let potatoes sit ~30 mins
+4. Roll sausage into balls, cook, and drain.
+5. Drain potatoes
+6. Put sausage in pan with potatoes and cover with tomato juice.
+7. Salt and pepper to taste
+8. Simmer (covered) until potatoes are done (~ 30 mins)

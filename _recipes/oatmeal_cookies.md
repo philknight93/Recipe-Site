@@ -1,10 +1,11 @@
 ---
 title: Oatmeal Cookies
-description:
+description: 
 tags: family dessert sugarfree
 source: Phil Knight
 yield: 
-ingredients: 
+---
+## Ingredients
 - 1 egg
 - 3/4 cup splenda
 - 1/2 cup rasins
@@ -15,9 +16,9 @@ ingredients:
 - 1/3 cup applesauce
 - 1/2 tsp cinnamon
 - 1/2 tsp vanilla
-instructions: 
-- Preheat oven to 375F
-- Mix all ingredients
-- Drop tsp sized cookies on cookie cheet
-- Bake 7-8 mins at 375F
----
+
+## Instructions
+1. Preheat oven to 375F
+2. Mix all ingredients
+3. Drop tsp sized cookies on cookie cheet
+4. Bake 7-8 mins at 375F

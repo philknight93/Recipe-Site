@@ -1,10 +1,11 @@
 ---
 title: Tuna Casserole
-description:
+description: 
 tags: family entree draft
-source:
+source: 
 yield: 
-ingredients: 
+---
+## Ingredients
 - 2 cans tuna
 - 1 can peas
 - 1 can cream of mushroom soup
@@ -12,10 +13,10 @@ ingredients:
 - salt
 - pepper
 - milk
-instructions: 
-- Cook noodles and drain
-- Butter 13x9 dish
-- Layer tuna, peas, soup, noodles
-- Pour milk around the edges (???)
-- Bake at 350F for 35-45 mins
----
+
+## Instructions
+1. Cook noodles and drain
+2. Butter 13x9 dish
+3. Layer tuna, peas, soup, noodles
+4. Pour milk around the edges (???)
+5. Bake at 350F for 35-45 mins

@@ -1,10 +1,11 @@
 ---
 title: Carrot Cake
-description:
+description: 
 tags: family dessert draft
 source: Mammaw Rearden
 yield: 
-ingredients: 
+---
+## Ingredients
 - 1 1/4 cup salad oil
 - 4 beaten eggs
 - 2 tsp. cinnamon
@@ -16,11 +17,11 @@ ingredients:
 - 1/2 cup butter
 - 1 box powdered sugar
 - 1/2 tsp vanilla
-instructions: 
-- Preheat over to 300F
-- Sift cinnamon, flour, and (??maybe sugar??)
-- Mix sugar, oil and carrots. 
-- Add dry mixture and egges to wet mixture
-- Bake for 1 hour at 300F
-- Mix creame cheese, butter, powdered sugar, and vanialla to make icing
----
+
+## Instructions
+1. Preheat over to 300F
+2. Sift cinnamon, flour, and (??maybe sugar??)
+3. Mix sugar, oil and carrots.
+4. Add dry mixture and egges to wet mixture
+5. Bake for 1 hour at 300F
+6. Mix creame cheese, butter, powdered sugar, and vanialla to make icing

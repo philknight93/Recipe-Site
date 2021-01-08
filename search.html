@@ -1,0 +1,25 @@
+---
+title: Search
+layout: default
+---
+<!-- Script pointing to search-script.js -->
+<script src="{{'assets/js/search-script.js'|relative_url}}" type="text/javascript"></script>
+
+<!--"https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"-->
+
+<h1> {{page.title}} </h1>
+<!-- Html Elements for Search -->
+<div id="search-container">
+    <input type="text" id="search-input" placeholder="Search for recipes..." autofocus>
+    <ul id="results-container"></ul>
+    </div>
+    
+
+    <!-- Configuration -->
+    <script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: "{{'/search.json'| relative_url}}"
+    })
+    </script>

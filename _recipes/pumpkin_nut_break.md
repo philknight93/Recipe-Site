@@ -1,10 +1,11 @@
 ---
 title: Pumpkin Nut Bread
-description:
+description: 
 tags: family dessert draft
 source: Barbara Rearden
 yield: 2 loaves
-ingredients: 
+---
+## Ingredients
 - 3 1/4 cup all-purpose flour
 - 2 tsp baking soda
 - 1/2 tsp baking powder
@@ -17,7 +18,7 @@ ingredients:
 - 1/2 cup oil
 - 1/2 cup evaporated milk
 - 1 cup nuts, chopped
-instructions: 
-- Mix all ingredients together and put in 2 9x5 loaf pans
-- unclear on baking instructions
----
+
+## Instructions
+1. Mix all ingredients together and put in 2 9x5 loaf pans
+2. unclear on baking instructions

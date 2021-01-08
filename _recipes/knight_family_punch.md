@@ -1,10 +1,11 @@
 ---
 title: Knight Family Punch
-description:
+description: 
 tags: family drink
-source:
+source: 
 yield: 
-ingredients: 
+---
+## Ingredients
 - 2 large cans orange juice
 - 1 large can pineapple
 - 2 pk strawberry Kool-Aid + sugar
@@ -13,7 +14,7 @@ ingredients:
 - Club Soda
 - Gingerale
 - Sprite
-instructions: 
-- Combine
-- Enjoy
----
+
+## Instructions
+1. Combine
+2. Enjoy

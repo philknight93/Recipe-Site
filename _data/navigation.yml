@@ -6,7 +6,11 @@
 #   link: /blog.html
 # - name: Staff
 #   link: /staff.html
-- name: Knight Family Cookbook
-  link: /recipebook.html
 - name: All Recipes
   link: /recipe_list.html
+- name: Knight Family
+  link: /recipebook.html
+- name: Travis & Phil's
+  link: /tp.html
+- name: Search
+  link: /search.html

@@ -1,10 +1,11 @@
 ---
 title: Peanut Butter Pie
-description:
+description: 
 tags: family dessert
-source:
+source: 
 yield: 
-ingredients: 
+---
+## Ingredients
 - 1 Oreo crust
 - 8 oz cream cheese
 - 1 cup creamy peanut butter
@@ -12,11 +13,11 @@ ingredients:
 - 1 Tbs butter (softened)
 - 1 tsp vanilla extract
 - 1 cup heavy cream
-instructions: 
-- Whip heavy cream, set aside. 
-- Beat cream cheese, peanut butter, sugar, butter, and vanilla until smooth.
-- Fold in whipped cream. 
-- Gently spoon into crust.
-- Garnish with chocoloate or cookie crumbs if desired.
-- Chill at least 2 hours
----
+
+## Instructions
+1. Whip heavy cream, set aside.
+2. Beat cream cheese, peanut butter, sugar, butter, and vanilla until smooth.
+3. Fold in whipped cream.
+4. Gently spoon into crust.
+5. Garnish with chocoloate or cookie crumbs if desired.
+6. Chill at least 2 hours

@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
+    <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Search</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Search" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4000/search.html" />
+<meta property="og:url" content="http://localhost:4000/search.html" />
+<script type="application/ld+json">
+{"headline":"Search","@type":"WebPage","url":"http://localhost:4000/search.html","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+    <navigation>
+    
+    <span>
+    <a href="/ " >
+      Home
+    </a>
+    </span>
+    
+    <span>
+    <a href="/recipe_list.html " >
+      All Recipes
+    </a>
+    </span>
+    
+    <span>
+    <a href="/recipebook.html " >
+      Knight Family
+    </a>
+    </span>
+    
+    <span>
+    <a href="/tp.html " >
+      Travis & Phil's
+    </a>
+    </span>
+    
+    <span>
+    <a href="/search.html " class="current">
+      Search
+    </a>
+    </span>
+    
+</navigation>
+    <br>
+    <br>
+    <!-- Script pointing to search-script.js -->
+<script src="/assets/js/search-script.js" type="text/javascript"></script>
+
+<!--"https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"-->
+
+<h1> Search </h1>
+<!-- Html Elements for Search -->
+<div id="search-container">
+    <input type="text" id="search-input" placeholder="Search for recipes..." autofocus>
+    <ul id="results-container"></ul>
+    </div>
+    
+
+    <!-- Configuration -->
+    <script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: "/search.json"
+    })
+    </script>
+  </body>
+</html>

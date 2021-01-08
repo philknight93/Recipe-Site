@@ -1,21 +1,22 @@
 ---
 title: Peanut Fudge Balls
-description:
+description: 
 tags: family dessert draft
-source:
+source: 
 yield: 2 1/2 dozen
-ingredients: 
+---
+## Ingredients
 - 2 1/2 oz (?Estee?) milk chocolate bar
 - 1/2 cup peanut butter
 - 1/4 cup lite evaporated milk
 - 9 (?estee?) fudge cookies
 - 1/2 cup chopped nuts
-instructions: 
-- Melt chocolate c=bar with peanut butter and milk over low heat.
-- Mix well, remove from heat.
-- Crunch cookies into fine crumbs ( ~1/2 cup )
-- Add to the mix
-- Shape into 3/4" balls
-- Roll into nuts
-- Refrigerate until firm
----
+
+## Instructions
+1. Melt chocolate c=bar with peanut butter and milk over low heat.
+2. Mix well, remove from heat.
+3. Crunch cookies into fine crumbs ( ~1/2 cup )
+4. Add to the mix
+5. Shape into 3/4" balls
+6. Roll into nuts
+7. Refrigerate until firm

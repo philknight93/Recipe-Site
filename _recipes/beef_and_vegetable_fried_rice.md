@@ -1,10 +1,11 @@
 ---
 title: Beef and Vegetable Fried Rice
-description:
+description: 
 tags: family entree
 source: Barbara Rearden
 yield: 
-ingredients: 
+---
+## Ingredients
 - 1 lb lean ground beef
 - 2 cloves crushed garlic ( or 1/2 rsp garlic powder )
 - 1/4 tsp ground ginger
@@ -14,13 +15,13 @@ ingredients:
 - 3 cups cold cooked rice
 - 3 Tbs soy sauce
 - 2 tsp dark sesame oil
-- 1/4 cup sliced grren onions 
-instructions: 
-- In large skillet, brown beef, garlic, and ginger over medium heat ( ~ 8-10 mins ) 
-- Pour off drippings
-- Heat oil over medium high heat
-- Stir fry peppers and pea pods until crisp
-- Add rice, soy sauce and sesame oil
-- Return beef and let simmer 10 mins
-- Stir in green onions and cook 5 mins
----
+- 1/4 cup sliced grren onions
+
+## Instructions
+1. In large skillet, brown beef, garlic, and ginger over medium heat ( ~ 8-10 mins )
+2. Pour off drippings
+3. Heat oil over medium high heat
+4. Stir fry peppers and pea pods until crisp
+5. Add rice, soy sauce and sesame oil
+6. Return beef and let simmer 10 mins
+7. Stir in green onions and cook 5 mins
