@@ -20,10 +20,10 @@ youtube:
 - 2 tablespoons fresh thyme  (or 1 teaspoon dry thyme )
 - 1 teaspoon dry oregano
 - 2 bay leaves
-- 1 teaspoons kosher salt, more to taste
+- 1 teaspoons kosher salt (we usually cut this to 1/4 - 1/2 tsp)
 - 1/2 teaspoon smoked paprika
 - 2 teaspoons regular paprika
-- 1/2 teaspoon cayenne pepper or chili flakes
+- 1/2 teaspoon cayenne pepper or chili flakes (we usually cut this down to 1/4 tsp)
 - 1 tablespoon fish sauce ( if using chicken broth )
 - Optional: 8–16 ounces large raw shrimp ( peeled and de-veined, if frozen see notes)
 - Optional additions: 1 cup fresh or frozen peas and 1 cup asparagus, 2 cups roasted veggies, or 1 can cooked chickpeas.
