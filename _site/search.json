@@ -421,6 +421,16 @@
   
     {
 
+      "title"    : "Oatmeal Bars",
+      "url"      : "/recipes/oatmeal_bars.html",
+      "tags"     : "tp, dessert"
+
+    } ,
+  
+  
+  
+    {
+
       "title"    : "Oatmeal Cookies",
       "url"      : "/recipes/oatmeal_cookies.html",
       "tags"     : "family, dessert, sugarfree"
