@@ -1,5 +1,5 @@
 ---
-title: Instant pot Chicken Risotto
+title: Instant Pot Chicken Risotto
 description: 
 tags: tp entree
 source: https://www.happyfoodstube.com/instant-pot-chicken-risotto/
