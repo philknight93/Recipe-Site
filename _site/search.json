@@ -163,6 +163,16 @@
   
     {
 
+      "title"    : "Chinese Fried Rice",
+      "url"      : "/recipes/chinese_fried_rice.html",
+      "tags"     : "tp, entree"
+
+    } ,
+  
+  
+  
+    {
+
       "title"    : "Chocolate Chip Cookie Bars",
       "url"      : "/recipes/choc_chip_cookie_bars.html",
       "tags"     : "tp, dessert"
