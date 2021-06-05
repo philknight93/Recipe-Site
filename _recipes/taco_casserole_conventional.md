@@ -1,5 +1,5 @@
 ---
-title: Taco Casserole ( Conventional Method )
+title: Taco Casserole (Conventional Method)
 description: 
 tags: family entree
 source: 
