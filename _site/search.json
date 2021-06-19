@@ -241,6 +241,16 @@
   
     {
 
+      "title"    : "Fish Tacos",
+      "url"      : "/recipes/fish_tacos.html",
+      "tags"     : "tp, entree"
+
+    } ,
+  
+  
+  
+    {
+
       "title"    : "5 Ingredient Coconut Curry",
       "url"      : "/recipes/five_ingredient_coconut_curry.html",
       "tags"     : "tp, entree"
