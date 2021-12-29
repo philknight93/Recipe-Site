@@ -37,6 +37,16 @@
   
     {
 
+      "title"    : "Balsamic Chicken with Roasted Brussel Sprouts and Potatoes",
+      "url"      : "/recipes/balsamic_chicken.html",
+      "tags"     : "tp, entree, hello-fresh"
+
+    } ,
+  
+  
+  
+    {
+
       "title"    : "Beef and Vegetable Fried Rice",
       "url"      : "/recipes/beef_and_vegetable_fried_rice.html",
       "tags"     : "family, entree"
@@ -249,14 +259,6 @@
   
   
   
-    {
-
-      "title"    : "5 Ingredient Coconut Curry",
-      "url"      : "/recipes/five_ingredient_coconut_curry.html",
-      "tags"     : "tp, entree"
-
-    } ,
-  
   
   
     {
@@ -409,16 +411,6 @@
   
     {
 
-      "title"    : "Lasagna Casserole",
-      "url"      : "/recipes/lasagna_casserole.html",
-      "tags"     : "tp, entree"
-
-    } ,
-  
-  
-  
-    {
-
       "title"    : "Mammaw&#39;s Cobbler",
       "url"      : "/recipes/mammaws_cobbler.html",
       "tags"     : "family, dessert"
@@ -506,6 +498,16 @@
       "title"    : "Oven Roasted Asparagus",
       "url"      : "/recipes/oven_roasted_asparagus.html",
       "tags"     : "tp, side"
+
+    } ,
+  
+  
+  
+    {
+
+      "title"    : "Pasta Bake Casserole",
+      "url"      : "/recipes/pasta_bake.html",
+      "tags"     : "tp, entree"
 
     } ,
   

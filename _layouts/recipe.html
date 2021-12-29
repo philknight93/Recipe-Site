@@ -13,6 +13,8 @@ layout: default
 
 {% if page.source contains 'http' and page.source contains 'maangchi'%}
 <h4><span style="font-weight:bold">Source:</span> <a href="{{ page.source }}">Maangchi!</a></h4>
+{% elsif page.source contains 'http' and page.source contains 'hellofresh'%}
+<h4><span style="font-weight:bold">Source:</span> <a href="{{ page.source }}">Hello Fresh</a></h4>
 {% elsif page.source contains 'http'%}
 <h4><span style="font-weight:bold">Source:</span> <a href="{{ page.source }}">Link</a></h4>
 {% elsif page.source != nil  %}

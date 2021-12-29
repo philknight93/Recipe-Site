@@ -1,7 +1,7 @@
 ---
 title: 5 Ingredient Coconut Curry
 description: 
-tags: tp entree
+tags: tp entree draft
 source: https://pinchofyum.com/5-ingredient-coconut-curry
 yield: 
 ---

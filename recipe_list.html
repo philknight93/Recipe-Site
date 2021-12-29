@@ -22,7 +22,7 @@ title: Recipes
 <ul>
 {% assign arry = "entree, side, dessert, sugarfree, snack, drink" | split: ", " %}
 {% for tag in arry %}
-  {%unless tag == 'draft' or tag == 'family' or tag == 'sugarfree' or tag == 'tp'%}
+  {%unless tag == 'draft' or tag == 'family' or tag == 'sugarfree' or tag == 'tp' or tag == 'hello-fresh'%}
     <h3>{{ tag | capitalize }}</h3>
   <ul>
     {% for recipe in site.recipes %}
