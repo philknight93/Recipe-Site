@@ -11,7 +11,7 @@ youtube:
 - 1 medium yellow onion, roughly chopped (about 2 cups)
 - 3 large cloves garlic, minced
 - Kosher salt
-- 1 tablespoon ancho chili powder
+- 2 teaspoons ancho chili powder (originally called for 1 Tbs)
 - 4 cups low-sodium chicken broth
 - 1 canned chipotle in adobo, finely minced (about 1 1/2 teaspoons)
 - 4 boneless, skinless chicken thighs (about 1 1/2 pounds)
