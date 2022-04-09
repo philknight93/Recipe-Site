@@ -6,9 +6,9 @@ source: https://www.skinnytaste.com/chicken-and-broccoli-stir-fry/?utm_campaign=
 yield: 4 servings
 ---
 ## Ingredients
-- 1.5 pound chicken breast
-- 3 broccoli florets
-- 2 Tbs sugar
+- 1 pound chicken thighs
+- 2 broccoli florets
+- 1.5 Tbs sugar
 - 2 Tbs cornstarch
 - 4 Tbs mirin
 - 1/3 cup low sodium soy sauce
