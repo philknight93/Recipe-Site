@@ -8,7 +8,7 @@ youtube:
 ---
 ## Ingredients
 - 3 eggs, beaten
-- 8 oz smoked suasage, cubed
+- 8 oz smoked sausage, cubed
 - 1/4 tsp salt
 - 1 Tbs olive oil
 - 4 green onions, finely chopped
