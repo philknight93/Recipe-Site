@@ -17,7 +17,7 @@ yield: 4 servings
 - 1 tsp rosemary
 - 1 tsp thyme
 - 1 Tbsp tomato paste
-- 2 cups beef broth
+- 2 cups beef broth (1 cup is maybe enough)
 - 7oz (200g) carrots
 - 7oz (200g) peas (fresh or frozen)
 
@@ -35,7 +35,7 @@ yield: 4 servings
 1. Peel the potatoes and cut into 4. Place in a medium pot and cover with cold water. Set over high heat, add a teaspoon of salt, cover and bring to a boil. cook until tender.
 2. While the potatoes are cooking, heat olive oil in a pan over medium heat. Add the onion and sauté 2-3 minutes, add crushed garlic and chopped carrots, sauté until the carrots are tender, about 5-7 minutes.
 3. Add the ground lamb, Cook until no longer pink, about 5 minutes. Season with salt, pepper, chopped rosemary and thyme. Add tomato paste, flour and stir.
-4. Add beef broth and frozen peas. Bring to a simmer, reduce heat to low and cook, stirring occasionally, until sauce thickens.
+4. Add beef broth (1/2 cup at a time) and frozen peas. Bring to a simmer, reduce heat to low and cook, stirring occasionally, until sauce thickens.
 5. When the potatoes are done cooking transfer them to a bowl. Add butter, milk, egg yolk, salt and pepper. mash the potatoes until smooth.
 6. Preheat oven to 400F (200C).
 7. Layer the meat mixture in a 13"X8.5" (33X22cm) ovenproof dish. Spread the puree over the meat mixture.
