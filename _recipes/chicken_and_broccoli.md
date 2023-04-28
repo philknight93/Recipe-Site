@@ -12,7 +12,7 @@ yield: 4 servings
 - 2 Tbs cornstarch
 - 4 Tbs mirin
 - 1/3 cup low sodium soy sauce
-- 2/3 cup chicken broth (we use 1/3 cup)
+- 2/3 cup chicken broth
 - 4 tsp sesame oil
 - 1/2 tsp white pepper
 - 1 1/2 Tbs minced garlic
