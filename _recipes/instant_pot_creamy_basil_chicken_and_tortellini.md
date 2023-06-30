@@ -7,7 +7,7 @@ yield:
 youtube:
 ---
 ## Ingredients
-- 1 1/2 pounds frozen or fresh chicken breasts (this was 2 chicken breast halves for me)
+- 1 1/2 pounds frozen or fresh chicken thighs
 - 1 or 2 (14.5 oz) cans petite diced tomatoes (if you want it more saucy then use 2 cans)
 - 3 garlic cloves, minced
 - 1 tsp Italian seasoning
