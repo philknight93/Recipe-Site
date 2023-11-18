@@ -1,5 +1,5 @@
 ---
-title: Malcolm Reed's White Chicken Chili
+title: White Chicken Chili (Malcolm Reed)
 description: 
 tags: entree
 source: https://howtobbqright.com/2021/02/01/white-chicken-chili-recipe/
