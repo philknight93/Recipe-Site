@@ -12,7 +12,7 @@ youtube:
 - 1 Medium Onion
 - 7 oz. Button Mushrooms (200 grams)
 - 1 lb Chicken Breast, diced (440 grams)
-- 2 cups Risotto Rice (400 grams)
+- 2 cups Risotto or Arborio Rice (400 grams)
 - 4 cups Chicken Broth
 
 ### Seasoning:
